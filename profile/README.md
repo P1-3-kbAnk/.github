@@ -2,22 +2,22 @@
 
 ---
 
-![방갑다 서비스](https://github.com/user-attachments/assets/5d8fa7df-41ff-43c4-a920-d547e739b374)
+![image](https://github.com/user-attachments/assets/d2af1252-aa5e-4fdb-ada3-1b5e7f954fca)
+
 
 
 배포 URL : [https://www.bangapda.com/](https://www.bangapda.com/)
 
 ## 💬 프로젝트 개요
-
----
+----
 
 **MZ세대를 위한 편리한 전자지갑 서비스는 이미 다양하게 존재하지만, 고령층 및 장애인 등 금융 소외계층을 위한 전자지갑 서비스는 아직 충분하지 않습니다. 비대면 금융이 점차 활성화되고 금융의 디지털화가 가속화되는 현 시점에서, 이들을 위한 맞춤형 UI와 기능을 갖춘 서비스가 필요한 시점입니다. 우리는 주민등록증뿐만 아니라, 장애인증, 건강보험증, 의료급여증, 장애인 증명서 등의 탑재 및 보험 청구 기능 등을 통합한 전자지갑을 개발하여, 이들에게 평생 금융 파트너로 자리매김하고자 합니다. 이를 통해 단순한 이윤 창출을 넘어, 동반 성장할 수 있는 바람직한 사회를 만들어 나가는 데 기여하고자 합니다.**
 
----
+----
 
 ## 🧑‍🤝‍🧑 팀원 구성
 
----
+----
 
 | 한상민 | 김성헌 | 최규찬 | 임준수 | 김도은 | 문환희 |
 | --- | --- | --- | --- | --- | --- |
@@ -26,7 +26,7 @@
 
 ### 🗓️ 개발 기간
 
----
+----
 
 2024.9.5 ~ 2024.9.11
 
@@ -54,7 +54,7 @@
 
 ## 💻 개발 환경 및 기술
 
----
+----
 
 - Front End : Vue.js, PWA, TypeScript, FireBase, CVA(Class-Variancem-authority), Shadcn-Vue
 - Back End : Spring Framework(6.x), Gradle(7.x), Spring Security(6.1.x), Fast API, MySQL, JWT, OAuth2
@@ -66,7 +66,7 @@
 
 ## 📎 협업 과정
 
----
+----
 
 매주 1회씩 스크럼을 진행하며 진행상황을 공유. 컨벤션을 정해서 협업의 효율을 증대.
 
@@ -112,8 +112,6 @@ ex) `feature/login` : 로그인 기능 구현 브랜치
 
 ✨ **`feature`** : 새로운 기능 추가 관련 Issue == 기능 구현
 
----
-
 ✅ **`test`** : test 관련 Issue
 
 📑 **`documentation`** : 문서화 관련 Issue == 문서 작성 및 수정
@@ -147,25 +145,25 @@ ex) `feature/login` : 로그인 기능 구현 브랜치
 
 ## 📎 데이터베이스 ERD
 
----
+----
 
 ![image](https://github.com/user-attachments/assets/ca8e0bc5-f5e2-4e17-a03f-8f7ae25f3d19)
 
 
 ## ⚙️ 아키텍쳐 다이어그램
 
----
+----
 
 <img width="938" alt="image" src="https://github.com/user-attachments/assets/8cba61d0-ba6e-4d04-8184-b3329cf9be9c">
 
 
 ## 🔎 서비스 기능
 
----
+----
 
 ### ✏️ 회원가입
 
-<img width="918" alt="image" src="https://github.com/user-attachments/assets/063c9638-15a8-4531-92e0-e580c9ecf63d">
+![image](https://github.com/user-attachments/assets/cfd0007a-ebd6-4cc0-8f52-ad988f182466)
 
 
 - 카카오 소셜 로그인으로 로그인
@@ -174,22 +172,20 @@ ex) `feature/login` : 로그인 기능 구현 브랜치
 
 ### ✏️ 회원가입 (환자)
 
-![image](https://github.com/user-attachments/assets/065a4098-b7ac-40f7-988b-767aaa8a09ed)
-
+![image](https://github.com/user-attachments/assets/a4b03915-321f-4336-a139-89efb7c8ea5c)
 
 - 환자 회원은 계좌등록을 통해서 자동 결제 설정
 - 알림 수신 동의를 필수로 함으로써 푸시알림을 필수적으로 설정
 
 ### ✏️ 회원가입(의사, 약사)
 
-<img width="1129" alt="image" src="https://github.com/user-attachments/assets/91bbc334-e16f-44a4-99f3-c99f43ef6dcf">
-
+![image](https://github.com/user-attachments/assets/695f4f4e-7763-41c6-9b61-8dfea099c354)
 
 - 각각 약사와 의사는 면허번호와 병원, 약국 주소를 기입하게 설정
 
 ### 📎 의사 처방전 작성
 
-<img width="1066" alt="image" src="https://github.com/user-attachments/assets/cd91f491-ad29-4902-aa99-7bed5a47f602">
+![image](https://github.com/user-attachments/assets/9f91646c-133d-4ce4-99c9-422f0055a5e3)
 
 - 환자를 이름과 주민등록번호로 조회
 - 질병 코드와 조제시 참고사항을 기입하도록 설정
@@ -198,9 +194,9 @@ ex) `feature/login` : 로그인 기능 구현 브랜치
 
 ### 📎 약사 처방전 QR 인식
 
-<img width="1036" alt="image" src="https://github.com/user-attachments/assets/b61f9b31-be1f-4d89-a4ba-d75ac4f02acc">
+![image](https://github.com/user-attachments/assets/e1fd094c-6cb3-4b3e-8f6d-547505f22d0e)
 
-<img width="1147" alt="image" src="https://github.com/user-attachments/assets/e1b9ab55-9b12-4cea-90e1-fb10ececa638">
+![image](https://github.com/user-attachments/assets/886fb5a8-4043-46d0-8d7c-4df5d47826a8)
 
 - 환자의 처방전 QR을 찍을 수 있는 기능
 - 해당 약국의 처방전 리스트들을 나열
@@ -210,7 +206,7 @@ ex) `feature/login` : 로그인 기능 구현 브랜치
 
 ### 📎 환자 메인 화면
 
-<img width="1162" alt="image" src="https://github.com/user-attachments/assets/10f577db-7825-4e7e-b5cb-9c9378a2d17a">
+![image](https://github.com/user-attachments/assets/46a151f5-c819-4ff6-abc1-bc0eab428626)
 
 - 아직 조제 받지 않은 처방전이 티켓형식으로 뜨도록 설정
 - 약 받기 버튼을 누를 시, 해당 처방전의 QR이 생성
@@ -222,7 +218,8 @@ ex) `feature/login` : 로그인 기능 구현 브랜치
 
 ### 📎 환자 날짜 별 복용해야 할 약 리스트
 
-<img width="1147" alt="image" src="https://github.com/user-attachments/assets/108886bc-be56-4f37-8f87-0e21405ea779">
+![image](https://github.com/user-attachments/assets/eaa88fa2-57cc-4c5b-a653-455c62606745)
+
 
 - 날짜별로 복용해야 할 약 리스트 출력
 - 확인 버튼으로 해당 약을 복용했는지 안했는지 체크 가능
@@ -230,7 +227,7 @@ ex) `feature/login` : 로그인 기능 구현 브랜치
 
 ### 📎 환자 처방전 상세 정보
 
-<img width="1148" alt="image" src="https://github.com/user-attachments/assets/8a96fb38-7531-409c-a117-71bcef5d8fbb">
+![image](https://github.com/user-attachments/assets/bb336892-99b9-47d1-8e70-c5f8d01a4d15)
 
 - 보험 청구 여부 확인버튼으로 청구 여부 체크
 - 해당 앱으로 약을 수령하지 않았다면 체크하는 기능 추가
@@ -240,7 +237,7 @@ ex) `feature/login` : 로그인 기능 구현 브랜치
 
 ### 📎 환자 마이페이지
 
-<img width="1083" alt="image" src="https://github.com/user-attachments/assets/f4eed0f6-27fe-4a73-ac5c-308eefbd52c2">
+![image](https://github.com/user-attachments/assets/767351d9-c54d-48e8-b2bd-7fd1bc11cedd)
 
 - 해당 환자 회원의 계좌정보와 복약 시간이 출력
 - 계좌정보 수정 가능
