@@ -2,7 +2,8 @@
 
 ---
 
-![방갑다 서비스.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/03daa272-ac9f-42ef-98a6-584abf58dfb9/5000c380-0df9-458f-af69-5f0c029ebad0/%E1%84%87%E1%85%A1%E1%86%BC%E1%84%80%E1%85%A1%E1%86%B8%E1%84%83%E1%85%A1_%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3.jpg)
+![방갑다 서비스](https://github.com/user-attachments/assets/5d8fa7df-41ff-43c4-a920-d547e739b374)
+
 
 배포 URL : [https://www.bangapda.com/](https://www.bangapda.com/)
 
@@ -20,7 +21,7 @@
 
 | 한상민 | 김성헌 | 최규찬 | 임준수 | 김도은 | 문환희 |
 | --- | --- | --- | --- | --- | --- |
-| [https://avatars.githubusercontent.com/u/105042038?v=4](https://avatars.githubusercontent.com/u/105042038?v=4) | [https://avatars.githubusercontent.com/u/143686086?v=4](https://avatars.githubusercontent.com/u/143686086?v=4) | [https://avatars.githubusercontent.com/u/169640483?v=4](https://avatars.githubusercontent.com/u/169640483?v=4) | [https://avatars.githubusercontent.com/u/123082095?v=4](https://avatars.githubusercontent.com/u/123082095?v=4) | [https://avatars.githubusercontent.com/u/109468226?v=4](https://avatars.githubusercontent.com/u/109468226?v=4) | [https://avatars.githubusercontent.com/u/109807723?v=4](https://avatars.githubusercontent.com/u/109807723?v=4) |
+| <img src=https://avatars.githubusercontent.com/u/105042038?v=4> | [https://avatars.githubusercontent.com/u/143686086?v=4](https://avatars.githubusercontent.com/u/143686086?v=4) | [https://avatars.githubusercontent.com/u/169640483?v=4](https://avatars.githubusercontent.com/u/169640483?v=4) | [https://avatars.githubusercontent.com/u/123082095?v=4](https://avatars.githubusercontent.com/u/123082095?v=4) | [https://avatars.githubusercontent.com/u/109468226?v=4](https://avatars.githubusercontent.com/u/109468226?v=4) | [https://avatars.githubusercontent.com/u/109807723?v=4](https://avatars.githubusercontent.com/u/109807723?v=4) |
 |  |  |  |  |  |  |
 | PM & Back End | Back End & Front End | Back End & Front End | Front End & UI/UX & Back End | Back End & CI/CD | Back End & AI |
 
@@ -149,13 +150,15 @@ ex) `feature/login` : 로그인 기능 구현 브랜치
 
 ---
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/03daa272-ac9f-42ef-98a6-584abf58dfb9/0645e0a2-f339-47c5-ad1c-b83e4933ccec/image.png)
+![image](https://github.com/user-attachments/assets/ca8e0bc5-f5e2-4e17-a03f-8f7ae25f3d19)
+
 
 ## ⚙️ 아키텍쳐 다이어그램
 
 ---
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/03daa272-ac9f-42ef-98a6-584abf58dfb9/ba030389-9d36-4985-8698-18536e559440/image.png)
+<img width="938" alt="image" src="https://github.com/user-attachments/assets/8cba61d0-ba6e-4d04-8184-b3329cf9be9c">
+
 
 ## 🔎 서비스 기능
 
@@ -163,7 +166,8 @@ ex) `feature/login` : 로그인 기능 구현 브랜치
 
 ### ✏️ 회원가입
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/03daa272-ac9f-42ef-98a6-584abf58dfb9/0e1cac2b-0400-46fc-9657-38e8e02f77e1/image.png)
+<img width="918" alt="image" src="https://github.com/user-attachments/assets/063c9638-15a8-4531-92e0-e580c9ecf63d">
+
 
 - 카카오 소셜 로그인으로 로그인
 - 일반 회원, 의사, 약사로 선택해서 회원가입 가능
@@ -171,20 +175,22 @@ ex) `feature/login` : 로그인 기능 구현 브랜치
 
 ### ✏️ 회원가입 (환자)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/03daa272-ac9f-42ef-98a6-584abf58dfb9/9c4eee8b-d9f1-4a00-9992-de0e137760aa/image.png)
+![image](https://github.com/user-attachments/assets/065a4098-b7ac-40f7-988b-767aaa8a09ed)
+
 
 - 환자 회원은 계좌등록을 통해서 자동 결제 설정
 - 알림 수신 동의를 필수로 함으로써 푸시알림을 필수적으로 설정
 
 ### ✏️ 회원가입(의사, 약사)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/03daa272-ac9f-42ef-98a6-584abf58dfb9/77d819c2-59c6-41ad-9519-e842204315fa/image.png)
+<img width="1129" alt="image" src="https://github.com/user-attachments/assets/91bbc334-e16f-44a4-99f3-c99f43ef6dcf">
+
 
 - 각각 약사와 의사는 면허번호와 병원, 약국 주소를 기입하게 설정
 
 ### 📎 의사 처방전 작성
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/03daa272-ac9f-42ef-98a6-584abf58dfb9/548e0f4a-e249-4991-8040-0cc923514d7b/image.png)
+<img width="1066" alt="image" src="https://github.com/user-attachments/assets/cd91f491-ad29-4902-aa99-7bed5a47f602">
 
 - 환자를 이름과 주민등록번호로 조회
 - 질병 코드와 조제시 참고사항을 기입하도록 설정
@@ -193,9 +199,9 @@ ex) `feature/login` : 로그인 기능 구현 브랜치
 
 ### 📎 약사 처방전 QR 인식
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/03daa272-ac9f-42ef-98a6-584abf58dfb9/25d77a95-0fed-48d4-9064-4275b406a262/image.png)
+<img width="1036" alt="image" src="https://github.com/user-attachments/assets/b61f9b31-be1f-4d89-a4ba-d75ac4f02acc">
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/03daa272-ac9f-42ef-98a6-584abf58dfb9/414baed3-9059-4cd6-a7da-f0e79401e8ea/image.png)
+<img width="1147" alt="image" src="https://github.com/user-attachments/assets/e1b9ab55-9b12-4cea-90e1-fb10ececa638">
 
 - 환자의 처방전 QR을 찍을 수 있는 기능
 - 해당 약국의 처방전 리스트들을 나열
@@ -205,7 +211,7 @@ ex) `feature/login` : 로그인 기능 구현 브랜치
 
 ### 📎 환자 메인 화면
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/03daa272-ac9f-42ef-98a6-584abf58dfb9/eca50b56-1ad5-44ea-908f-7b57571f2574/image.png)
+<img width="1162" alt="image" src="https://github.com/user-attachments/assets/10f577db-7825-4e7e-b5cb-9c9378a2d17a">
 
 - 아직 조제 받지 않은 처방전이 티켓형식으로 뜨도록 설정
 - 약 받기 버튼을 누를 시, 해당 처방전의 QR이 생성
@@ -217,7 +223,7 @@ ex) `feature/login` : 로그인 기능 구현 브랜치
 
 ### 📎 환자 날짜 별 복용해야 할 약 리스트
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/03daa272-ac9f-42ef-98a6-584abf58dfb9/37a266fc-7640-4bee-8ecf-e83ca38158ab/image.png)
+<img width="1147" alt="image" src="https://github.com/user-attachments/assets/108886bc-be56-4f37-8f87-0e21405ea779">
 
 - 날짜별로 복용해야 할 약 리스트 출력
 - 확인 버튼으로 해당 약을 복용했는지 안했는지 체크 가능
@@ -225,7 +231,7 @@ ex) `feature/login` : 로그인 기능 구현 브랜치
 
 ### 📎 환자 처방전 상세 정보
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/03daa272-ac9f-42ef-98a6-584abf58dfb9/573deea5-1880-432b-a187-6730368006c0/image.png)
+<img width="1148" alt="image" src="https://github.com/user-attachments/assets/8a96fb38-7531-409c-a117-71bcef5d8fbb">
 
 - 보험 청구 여부 확인버튼으로 청구 여부 체크
 - 해당 앱으로 약을 수령하지 않았다면 체크하는 기능 추가
@@ -235,7 +241,7 @@ ex) `feature/login` : 로그인 기능 구현 브랜치
 
 ### 📎 환자 마이페이지
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/03daa272-ac9f-42ef-98a6-584abf58dfb9/0b482671-68c7-4286-b012-e39677d30582/image.png)
+<img width="1083" alt="image" src="https://github.com/user-attachments/assets/f4eed0f6-27fe-4a73-ac5c-308eefbd52c2">
 
 - 해당 환자 회원의 계좌정보와 복약 시간이 출력
 - 계좌정보 수정 가능
@@ -253,4 +259,5 @@ ex) `feature/login` : 로그인 기능 구현 브랜치
 
 ---
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/03daa272-ac9f-42ef-98a6-584abf58dfb9/1cce7ccc-2b20-4edc-9b6d-f36b01e5cf02/image.png)
+<img width="1029" alt="image" src="https://github.com/user-attachments/assets/46335d71-9267-42ce-b16e-727d51e72797">
+
