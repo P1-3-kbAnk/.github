@@ -21,8 +21,7 @@
 
 | 한상민 | 김성헌 | 최규찬 | 임준수 | 김도은 | 문환희 |
 | --- | --- | --- | --- | --- | --- |
-| <img src=https://avatars.githubusercontent.com/u/105042038?v=4> | [https://avatars.githubusercontent.com/u/143686086?v=4](https://avatars.githubusercontent.com/u/143686086?v=4) | [https://avatars.githubusercontent.com/u/169640483?v=4](https://avatars.githubusercontent.com/u/169640483?v=4) | [https://avatars.githubusercontent.com/u/123082095?v=4](https://avatars.githubusercontent.com/u/123082095?v=4) | [https://avatars.githubusercontent.com/u/109468226?v=4](https://avatars.githubusercontent.com/u/109468226?v=4) | [https://avatars.githubusercontent.com/u/109807723?v=4](https://avatars.githubusercontent.com/u/109807723?v=4) |
-|  |  |  |  |  |  |
+| ![한상민](https://avatars.githubusercontent.com/u/105042038?v=4) | ![김성헌](https://avatars.githubusercontent.com/u/143686086?v=4) | ![최규찬](https://avatars.githubusercontent.com/u/169640483?v=4) | ![임준수](https://avatars.githubusercontent.com/u/123082095?v=4) | ![김도은](https://avatars.githubusercontent.com/u/109468226?v=4) | ![문환희](https://avatars.githubusercontent.com/u/109807723?v=4) |
 | PM & Back End | Back End & Front End | Back End & Front End | Front End & UI/UX & Back End | Back End & CI/CD | Back End & AI |
 
 ### 🗓️ 개발 기간
