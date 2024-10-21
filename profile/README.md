@@ -1,7 +1,5 @@
 # 전자처방전 전자지갑 서비스 방갑다
 
----
-
 ![image](https://github.com/user-attachments/assets/d2af1252-aa5e-4fdb-ada3-1b5e7f954fca)
 
 
@@ -9,15 +7,11 @@
 배포 URL : [https://www.bangapda.com/](https://www.bangapda.com/)
 
 ## 💬 프로젝트 개요
-----
 
 **MZ세대를 위한 편리한 전자지갑 서비스는 이미 다양하게 존재하지만, 고령층 및 장애인 등 금융 소외계층을 위한 전자지갑 서비스는 아직 충분하지 않습니다. 비대면 금융이 점차 활성화되고 금융의 디지털화가 가속화되는 현 시점에서, 이들을 위한 맞춤형 UI와 기능을 갖춘 서비스가 필요한 시점입니다. 우리는 주민등록증뿐만 아니라, 장애인증, 건강보험증, 의료급여증, 장애인 증명서 등의 탑재 및 보험 청구 기능 등을 통합한 전자지갑을 개발하여, 이들에게 평생 금융 파트너로 자리매김하고자 합니다. 이를 통해 단순한 이윤 창출을 넘어, 동반 성장할 수 있는 바람직한 사회를 만들어 나가는 데 기여하고자 합니다.**
 
-----
 
 ## 🧑‍🤝‍🧑 팀원 구성
-
-----
 
 | 한상민 | 김성헌 | 최규찬 | 임준수 | 김도은 | 문환희 |
 | --- | --- | --- | --- | --- | --- |
@@ -25,8 +19,6 @@
 | PM & Back End | Back End & Front End | Back End & Front End | Front End & UI/UX & Back End | Back End & CI/CD | Back End & AI |
 
 ### 🗓️ 개발 기간
-
-----
 
 2024.9.5 ~ 2024.9.11
 
@@ -54,8 +46,6 @@
 
 ## 💻 개발 환경 및 기술
 
-----
-
 - Front End : Vue.js, PWA, TypeScript, FireBase, CVA(Class-Variancem-authority), Shadcn-Vue
 - Back End : Spring Framework(6.x), Gradle(7.x), Spring Security(6.1.x), Fast API, MySQL, JWT, OAuth2
 - 버전 관리 및 이슈 관리 : GitHub
@@ -65,8 +55,6 @@
 - UI/UX : Figma
 
 ## 📎 협업 과정
-
-----
 
 매주 1회씩 스크럼을 진행하며 진행상황을 공유. 컨벤션을 정해서 협업의 효율을 증대.
 
@@ -145,21 +133,15 @@ ex) `feature/login` : 로그인 기능 구현 브랜치
 
 ## 📎 데이터베이스 ERD
 
-----
-
 ![image](https://github.com/user-attachments/assets/ca8e0bc5-f5e2-4e17-a03f-8f7ae25f3d19)
 
 
 ## ⚙️ 아키텍쳐 다이어그램
 
-----
-
 <img width="938" alt="image" src="https://github.com/user-attachments/assets/8cba61d0-ba6e-4d04-8184-b3329cf9be9c">
 
 
 ## 🔎 서비스 기능
-
-----
 
 ### ✏️ 회원가입
 
@@ -245,15 +227,11 @@ ex) `feature/login` : 로그인 기능 구현 브랜치
 
 ## ⛏️ 이슈 해결 및 트러블 슈팅
 
----
-
 - N+1 문제 해결 → 지연로딩으로 쿼리 호출 감소 시도
 - 초기 로딩 시, 데이터의 과다한 요청으로 성능 지연 이슈 → 무한 스크롤로 페이지 전환없이 페이지네이션을 통한 데이터 로딩 최소화 시도
 - 트랜잭션 매니저 충돌 → 트랜잭션 매니저가 두개였던 문제를 해결
 
 ## 🔎 개선 및 고도화 계획
-
----
 
 <img width="1029" alt="image" src="https://github.com/user-attachments/assets/46335d71-9267-42ce-b16e-727d51e72797">
 
