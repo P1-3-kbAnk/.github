@@ -4,7 +4,7 @@
 
 
 
-배포 URL : [https://www.bangapda.com/](https://www.bangapda.com/)
+🔗 배포 URL : [https://www.bangapda.com/](https://www.bangapda.com/)
 
 ## 💬 프로젝트 개요
 
@@ -18,7 +18,7 @@
 | ![한상민](https://avatars.githubusercontent.com/u/105042038?v=4) | ![김성헌](https://avatars.githubusercontent.com/u/143686086?v=4) | ![최규찬](https://avatars.githubusercontent.com/u/169640483?v=4) | ![임준수](https://avatars.githubusercontent.com/u/123082095?v=4) | ![김도은](https://avatars.githubusercontent.com/u/109468226?v=4) | ![문환희](https://avatars.githubusercontent.com/u/109807723?v=4) |
 | PM & Back End | Back End & Front End | Back End & Front End | Front End & UI/UX & Back End | Back End & CI/CD | Back End & AI |
 
-### 🗓️ 개발 기간
+## 🗓️ 개발 기간
 
 2024.9.5 ~ 2024.9.11
 
