@@ -71,18 +71,19 @@
 ex) `feature/login` : 로그인 기능 구현 브랜치
 
 ### 🗒️ 커밋 컨벤션
-| 깃모자 | 아이콘 | 설명 |
-| --- | --- | --- | --- |
-| `:tada:` | 🎉 | Init | 최초 파일 생성 |
-| `:sparkles:` | ✨ | Feat | 기능 구현 첫 커밋 할 때 |
-| `:pencil2:` | ✏️ | Fix | 자잘한 코드 수정 |
-| `:art:` | 🎨 | Refactor | 코드 수정 (기능 수정 없이 이쁘게 최적화) |
-| `:ambulance:` | 🚑 | Hotfix | 급하게 치명적인 버그를 고쳐야하는 경우 |
-| `:rewind:` | ⏪️ | Revert | 변경 사항 되돌리기 |
-| **`:memo:`** | 🗒️ | docs | 문서 수정 (문서 추가, 수정, 삭제, README) |
-| `:wrench:` | 🔧 | chore | 기타 변경사항 (빌드 스크립트 수정, assets, 패키지 매니저 등) |
-| `:label:` | 🏷️ | rename | 파일 혹은 폴더명을 수정하거나 옮기는 작업만 한 경우 |
-| `:coffin:` | ⚰️ | remove | 파일을 삭제하는 작업만 수행한 경우 |
+
+| Gitmoji Code | Gitmoji | 설명 |
+| --- | --- | --- |
+| `:tada:` | 🎉 | Init: 최초 파일 생성 |
+| `:sparkles:` | ✨ | Feat: 기능 구현 첫 커밋 할 때 |
+| `:pencil2:` | ✏️ | Fix: 자잘한 코드 수정 |
+| `:art:` | 🎨 | Refactor: 코드 수정 (기능 수정 없이 이쁘게 최적화) |
+| `:ambulance:` | 🚑 | Hotfix: 급하게 치명적인 버그를 고쳐야하는 경우 |
+| `:rewind:` | ⏪️ | Revert: 변경 사항 되돌리기 |
+| **`:memo:`** | 🗒️ | Docs: 문서 수정 (문서 추가, 수정, 삭제, README) |
+| `:wrench:` | 🔧 | Chore: 기타 변경사항 (빌드 스크립트 수정, assets, 패키지 매니저 등) |
+| `:label:` | 🏷️ | Rename: 파일 혹은 폴더명을 수정하거나 옮기는 작업만 한 경우 |
+| `:coffin:` | ⚰️ | Remove: 파일을 삭제하는 작업만 수행한 경우 |
 
 ### 💬 이슈 컨벤션
 
